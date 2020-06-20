@@ -31,6 +31,7 @@ This application does not currently count with a license.
 ## Contributing
 
 Users can email me or open an issue in the Github repository
+* Email: elsadan96340@gmail.com
 * Github username: maquispe
 * Github repository link: https://github.com/maquispe/Employee-Summary
 
