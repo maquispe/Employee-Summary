@@ -1,7 +1,7 @@
 # Employee-Summary
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 ## Description
-The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 ## Table of Contents
     
 * [Installation](#installation)
@@ -25,8 +25,6 @@ This application does not currently count with a license.
 Users can email me or open an issue in the Github repository
 * Github username: maquispe
 * Github repository link: https://github.com/maquispe/Employee-Summary
-    
-## Tests
 
 ## Questions
 
