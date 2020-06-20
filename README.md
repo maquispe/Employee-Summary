@@ -14,7 +14,15 @@ After downloading all the application files, run 'npm install'.
 
 ## Usage
 
-First, the user is asked to enter information about their project manager. Once they have completed the first prompt they are given the option to add as many engineers or interns as they like, or to not add anymore employees to their project. Finally, they are asked to enter either the engineer's or intern's information such as Github links or the school they are currently attending. An HTML file is created with all of the given information and saved within the Output directory.
+First, the user is asked to enter information about their project manager.
+![](Images/Screenshot-1)
+Once they have completed the first prompt they are given the option to add as many engineers or interns as they like, or to not add anymore employees to their project.
+![](Images/Screenshot-2)
+Finally, they are asked to enter either the engineer's or intern's information such as Github links or the school they are currently attending.
+![](Images/Screenshot-3)
+![](Images/Screenshot-4)
+An HTML file is created with all of the given information and saved within the Output directory.
+1[](Images/Screenshot-5)
 
 ## License
 
