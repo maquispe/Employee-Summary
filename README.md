@@ -22,7 +22,7 @@ Finally, they are asked to enter either the engineer's or intern's information s
 ![](Images/Screenshot-3.png)
 ![](Images/Screenshot-4.png)
 An HTML file is created with all of the given information and saved within the Output directory.
-
+![](Images/App-screenshot.png)
 
 ## License
 
