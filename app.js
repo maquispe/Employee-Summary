@@ -13,9 +13,9 @@ const render = require("./lib/htmlRenderer");
 
 const employeeArr = [];
 
-newManager();
+;
 
-function newManager() {
+const newManager = () => {
   inquirer
     .prompt([
       {
@@ -55,7 +55,10 @@ function newManager() {
     });
 }
 
-function newEmployee() {
+
+newManager();
+
+const newEmployee = () => {
   inquirer
     .prompt([
       {
@@ -83,7 +86,7 @@ function newEmployee() {
     });
 }
 
-function newEngineer() {
+const newEngineer = () => {
   inquirer
     .prompt([
       {
@@ -123,7 +126,7 @@ function newEngineer() {
     });
 }
 
-function newIntern() {
+const newIntern = () => {
   inquirer
     .prompt([
       {
@@ -163,7 +166,7 @@ function newIntern() {
     });
 }
 
-function createFile(data) {
+const createFile = data => {
     return fs.writeFile(outputPath, data, err => {
         if (err){
             console.log(err)
