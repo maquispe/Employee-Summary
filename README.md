@@ -22,7 +22,7 @@ Finally, they are asked to enter either the engineer's or intern's information s
 ![](Images/Screenshot-3.png)
 ![](Images/Screenshot-4.png)
 An HTML file is created with all of the given information and saved within the Output directory.
-
+![](Images/App-screenshot.png)
 
 ## License
 
@@ -31,6 +31,7 @@ This application does not currently count with a license.
 ## Contributing
 
 Users can email me or open an issue in the Github repository
+* Email: elsadan96340@gmail.com
 * Github username: maquispe
 * Github repository link: https://github.com/maquispe/Employee-Summary
 
