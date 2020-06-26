@@ -13,8 +13,6 @@ const render = require("./lib/htmlRenderer");
 
 const employeeArr = [];
 
-;
-
 const newManager = () => {
   inquirer
     .prompt([
@@ -53,7 +51,7 @@ const newManager = () => {
       console.log(err);
       process.exit(1);
     });
-}
+  };
 
 
 newManager();
